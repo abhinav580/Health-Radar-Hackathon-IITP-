@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthradar-yawosv",
+  "private_key_id": "d4829ed1d6140309baf049a773dfc4aec0f4d955",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnGgxyp6NBC22u\nuhPJlKGgVM2PbBmgv7m9iaD+JN/SJHj4Ap7/OOzUw/o+Q5ZgEA6tKZjPS0lh59hU\n06KPIFIM81rvxPaVyrh1jSAhIoCNRXc1a80z1dymRF2JizqlxyNEi0rxm6gd6iCD\nvjKKhD2IFeml+TRi21AfK0t+LO85n4mmoR23vPxLpahrIA2o2A7XRmApG7bZLvJb\n7HC5LAQ8k7VVT5gKMdMDy20oEBxhw37+zP5dw65fcrgMQZxYB59Xg4pXaLFsJ1rQ\npwu3EMuTE1m9QIvajNNPXv8mmzKQ1qvXuQo0YEJzHpjHpG66jDi8S3MNGRzabaJq\njcdPl0zFAgMBAAECggEAPB+6v9xCeMpgZiBsszin6PTqW4L1O6oQbjqhcyAYaleW\nMQJcbA9y42E6XoHaDuloJnUTlu6LUk9lvqvBT0c9ToyXOTNA2AevVBh5qYJtB6ep\na07E8DQwZqCtmSo/6Vsb/PMzfXhYxp6xoUVjkQRg0WC1B3OBnloz22ssCBOp5azF\nI/zde8FPgURvbPQTDUl0eKgKEU3wrE9LRen7WF9bXZXe94PEWLHtIP2TEz9+Etbo\nsf4ANawl5lp8vA2te6xJbMxBQqIIgvY4J3V+xC32M+aJopwELm+rq/8oLdm1SRHI\nc9HslJlpe2VCedeUo1Hsn+zFCCnM88h31QlaPQhkBwKBgQDViuWNhxNdzEN6Lctn\nAfiMAT/3I+v83ERlz9QnvM+lsj4GgKwVU3OfYCwnMbwcYxQozZQZUxlBWaOIZ8ru\n2D89BkerDom775XJyyty1Uh8vccE9tjcxCyiEcQovXfw+fdOiqX5yGAlkwWLbj/5\n9jwYdQd5kUWgUnzHHig2wnWu5wKBgQDIU1xmyxCfQbbXpmChiNgZSIAisEc5ujb0\npbPRIIFOQwQpVJLhS6LL7FS0iAw8SbExWLzNtDIhZDDfDJ8A58B3+ZfpkSDNNZTT\n3M1ZXVIZWFaL8h9I4UzfRdX7QHyvP0KpnBrs30u4tIioWcm9yy83JipZMddkvP3c\ng6jNC2gNcwKBgA1M83NXQHuNJ37Kr2qhEswVn9hS4nYDejclNL+s4PofGgHprc4+\nPmtk4Bso2+CgwzavZ1QUevQ5ExiB7n/l9Dpm07vx0d5k092XzAMBCdzLLUQ/484M\nYgNOO/uVoYze5Op9dE0Uj/iHKcc/fLii/6c+UtLdm4qa2K7GUBbpEc9tAoGAHEY3\nyoJqzC+YQQPIq8QGzDrBayP6SZmQ3CLvKFswJP2sfrDjMk1cou+uXPS+1VuJWO+v\nZlFCqhfcFf9QCe6r6cMev+at/IjNgsGtcimLxuwC+ymnZL/3+6N9ukK11n5VSF8y\nJbC2nVFN4IUbxmABQAVxALnaLuvF4PPsRVSQ0SUCgYBpnthFhMEaIY0Vr0m3Meoy\nJsVtaBcaCCcpumHYmOxW8JWW6UJ33JeqexSz89AaPsWTY3zv19Pl78q5/obLSs3M\nwIdteT/h7IREBEdlI5AU2kPoVUAOCl2UMv8UDQwB6QPqG6SsQi6E60sqaRMdmmkM\nUVWQOv7+hqSvebXWJhM/yA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "healthradar@healthradar-yawosv.iam.gserviceaccount.com",
+  "client_id": "104699046547448943519",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/healthradar%40healthradar-yawosv.iam.gserviceaccount.com"
+}
